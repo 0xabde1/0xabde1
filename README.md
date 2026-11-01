@@ -20,10 +20,10 @@
   <a href="mailto:kaid.abdeldaim91@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/IyStix?tab=followers">
-    <img src="https://img.shields.io/github/followers/IyStix?style=for-the-badge&color=6366F1&labelColor=1a1b27&logo=github" alt="Followers"/>
+  <a href="https://github.com/0xabde1?tab=followers">
+    <img src="https://img.shields.io/github/followers/0xabde1?style=for-the-badge&color=6366F1&labelColor=1a1b27&logo=github" alt="Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=IyStix&style=for-the-badge&color=6366F1&labelColor=1a1b27&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=0xabde1&style=for-the-badge&color=6366F1&labelColor=1a1b27&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
@@ -82,22 +82,22 @@ open_to: collaborations, projets freelance, discussions tech
 
 <div align="center">
 
-<a href="https://github.com/IyStix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IyStix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyStix&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
+<a href="https://github.com/0xabde1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xabde1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xabde1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=IyStix&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=0xabde1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IyStix&theme=tokyonight" alt="Profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xabde1&theme=tokyonight" alt="Profile details"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IyStix&theme=tokyonight&utcOffset=1" alt="Productive time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xabde1&theme=tokyonight&utcOffset=1" alt="Productive time"/>
 
 </div>
 
@@ -107,7 +107,7 @@ open_to: collaborations, projets freelance, discussions tech
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IyStix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316&area=true&area_color=6366F1" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xabde1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316&area=true&area_color=6366F1" alt="Activity graph"/>
 
 </div>
 
@@ -117,7 +117,7 @@ open_to: collaborations, projets freelance, discussions tech
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/IyStix/IyStix/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/0xabde1/0xabde1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
